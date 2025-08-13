@@ -1,0 +1,25 @@
+name: Refresh Hackatime card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:
+
+jobs:
+  fetch-card:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download card SVG
+        run: |
+          URL="https://github-readme-stats.hackclub.dev/api/wakatime?username=1933&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark&v=${GITHUB_RUN_ID}"
+          curl -sSL "$URL" -o hackatime.svg
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh Hackatime card"
+          file_pattern: hackatime.svg
