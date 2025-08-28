@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="152.985"
+            width="152.892"
             height="8"
             fill="#f34b7d"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="152.985"
+            x="152.892"
             y="0"
             width="77.841"
             height="8"
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="230.82600000000002"
+            x="230.733"
             y="0"
             width="74.121"
             height="8"
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="304.947"
+            x="304.854"
             y="0"
-            width="57.52049999999999"
+            width="57.474"
             height="8"
             fill="#b07219"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="362.4675"
+            x="362.328"
             y="0"
-            width="36.735"
+            width="36.6885"
             height="8"
             fill="#858585"
           />
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="399.2025"
+            x="399.01649999999995"
             y="0"
             width="25.761"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="424.9635"
+            x="424.7775"
             y="0"
             width="23.064"
             height="8"
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="448.02750000000003"
+            x="447.8415"
             y="0"
-            width="15.345"
+            width="15.298499999999999"
             height="8"
             fill="#858585"
           />
