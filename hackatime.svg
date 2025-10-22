@@ -171,7 +171,7 @@
             y="0"
             width="36.7815"
             height="8"
-            fill="#858585"
+            fill="#b07219"
           />
         
           <rect
@@ -181,7 +181,7 @@
             y="0"
             width="26.784000000000002"
             height="8"
-            fill="#DA3434"
+            fill="#858585"
           />
         
           <rect
@@ -215,14 +215,14 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C/C++ Header - 91h 28m
+        C/c++ header - 91h 28m
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C/C++ - 87h 35m
+        C/c++ - 87h 35m
       </text>
     </g>
   
@@ -234,30 +234,30 @@
     </g>
   
     <g transform="translate(25, 75)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JAVA - 42h 59m
+        Java - 42h 59m
       </text>
     </g>
   
     <g transform="translate(230, 75)">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake - 31h 18m
+        Cmake - 31h 18m
       </text>
     </g>
   
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMakeLists.txt - 27h 52m
+        Cmakelists.txt - 27h 52m
       </text>
     </g>
   
     <g transform="translate(230, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        GLSL shader - 17h 55m
+        Glsl shader - 17h 55m
       </text>
     </g>
   
