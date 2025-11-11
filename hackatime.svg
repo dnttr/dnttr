@@ -139,7 +139,7 @@
             data-testid="lang-progress"
             x="152.70600000000002"
             y="0"
-            width="77.93400000000001"
+            width="77.8875"
             height="8"
             fill="#858585"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="230.64000000000004"
+            x="230.5935"
             y="0"
             width="74.86500000000001"
             height="8"
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="305.50500000000005"
+            x="305.4585"
             y="0"
             width="57.2415"
             height="8"
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="362.7465000000001"
+            x="362.70000000000005"
             y="0"
-            width="36.5955"
+            width="36.549"
             height="8"
             fill="#b07219"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="399.3420000000001"
+            x="399.249"
             y="0"
-            width="27.3885"
+            width="27.435"
             height="8"
             fill="#858585"
           />
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.7305000000001"
+            x="426.684"
             y="0"
             width="24.3195"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="451.0500000000001"
+            x="451.00350000000003"
             y="0"
             width="15.251999999999999"
             height="8"
@@ -208,7 +208,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 179h 32m
+        C++ - 179h 36m
       </text>
     </g>
   
@@ -222,7 +222,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C/c++ - 87h 59m
+        C/c++ - 88h 1m
       </text>
     </g>
   
@@ -243,7 +243,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Cmake - 32h 11m
+        Cmake - 32h 15m
       </text>
     </g>
   
