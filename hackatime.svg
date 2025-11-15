@@ -139,7 +139,7 @@
             data-testid="lang-progress"
             x="151.8225"
             y="0"
-            width="77.469"
+            width="77.42249999999999"
             height="8"
             fill="#858585"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="229.29149999999998"
+            x="229.24499999999998"
             y="0"
             width="74.493"
             height="8"
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="303.7845"
+            x="303.73799999999994"
             y="0"
-            width="56.916000000000004"
+            width="56.869499999999995"
             height="8"
             fill="#b07219"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="360.7005"
+            x="360.60749999999996"
             y="0"
             width="36.3165"
             height="8"
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="397.017"
+            x="396.924"
             y="0"
-            width="27.760499999999997"
+            width="27.807000000000002"
             height="8"
             fill="#858585"
           />
@@ -187,9 +187,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="424.7775"
+            x="424.731"
             y="0"
-            width="24.691499999999998"
+            width="24.738000000000003"
             height="8"
             fill="#858585"
           />
@@ -243,14 +243,14 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Cmake - 32h 51m
+        Cmake - 32h 53m
       </text>
     </g>
   
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Cmakelists.txt - 29h 10m
+        Cmakelists.txt - 29h 14m
       </text>
     </g>
   
