@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="150.4275"
+            width="150.28799999999998"
             height="8"
             fill="#f34b7d"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="150.4275"
+            x="150.28799999999998"
             y="0"
-            width="76.7715"
+            width="76.725"
             height="8"
             fill="#858585"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="227.199"
+            x="227.01299999999998"
             y="0"
             width="73.9815"
             height="8"
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="301.1805"
+            x="300.99449999999996"
             y="0"
-            width="56.5905"
+            width="56.544"
             height="8"
             fill="#b07219"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="357.771"
+            x="357.53849999999994"
             y="0"
-            width="36.1305"
+            width="36.084"
             height="8"
             fill="#b07219"
           />
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="393.9015"
+            x="393.62249999999995"
             y="0"
             width="28.2255"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="422.127"
+            x="421.84799999999996"
             y="0"
             width="24.924"
             height="8"
@@ -197,9 +197,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="447.051"
+            x="446.77199999999993"
             y="0"
-            width="15.0195"
+            width="14.973000000000003"
             height="8"
             fill="#858585"
           />
