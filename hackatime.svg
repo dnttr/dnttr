@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="151.86899999999997"
+            width="151.8225"
             height="8"
             fill="#f34b7d"
           />
@@ -137,7 +137,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="151.86899999999997"
+            x="151.8225"
             y="0"
             width="77.469"
             height="8"
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="229.33799999999997"
+            x="229.29149999999998"
             y="0"
             width="74.958"
             height="8"
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="304.29599999999994"
+            x="304.2495"
             y="0"
-            width="57.14849999999999"
+            width="57.102"
             height="8"
             fill="#b07219"
           />
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="361.44449999999995"
+            x="361.3515"
             y="0"
             width="36.455999999999996"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="397.90049999999997"
+            x="397.8075"
             y="0"
             width="28.969500000000004"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.86999999999995"
+            x="426.777"
             y="0"
             width="25.482000000000003"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.352"
+            x="452.259"
             y="0"
             width="15.158999999999999"
             height="8"
