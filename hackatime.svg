@@ -149,7 +149,7 @@
             data-testid="lang-progress"
             x="229.24499999999998"
             y="0"
-            width="74.958"
+            width="75.0045"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="304.203"
+            x="304.24949999999995"
             y="0"
-            width="57.102"
+            width="57.0555"
             height="8"
             fill="#b07219"
           />
@@ -189,7 +189,7 @@
             data-testid="lang-progress"
             x="426.777"
             y="0"
-            width="25.482000000000003"
+            width="25.528499999999998"
             height="8"
             fill="#858585"
           />
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.259"
+            x="452.3055"
             y="0"
             width="15.158999999999999"
             height="8"
@@ -222,7 +222,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C/C++ - 88h 49m
+        C/C++ - 88h 51m
       </text>
     </g>
   
@@ -250,7 +250,7 @@
     <g transform="translate(25, 100)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMakeLists.txt - 30h 11m
+        CMakeLists.txt - 30h 13m
       </text>
     </g>
   
