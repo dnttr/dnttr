@@ -139,7 +139,7 @@
             data-testid="lang-progress"
             x="151.8225"
             y="0"
-            width="77.469"
+            width="77.42249999999999"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="229.29149999999998"
+            x="229.24499999999998"
             y="0"
-            width="75.0045"
+            width="74.958"
             height="8"
             fill="#858585"
           />
@@ -157,7 +157,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="304.296"
+            x="304.203"
             y="0"
             width="57.102"
             height="8"
@@ -167,7 +167,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="361.39799999999997"
+            x="361.30499999999995"
             y="0"
             width="36.455999999999996"
             height="8"
@@ -177,7 +177,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="397.854"
+            x="397.76099999999997"
             y="0"
             width="29.016"
             height="8"
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="426.87"
+            x="426.777"
             y="0"
             width="25.482000000000003"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="452.35200000000003"
+            x="452.259"
             y="0"
             width="15.158999999999999"
             height="8"
@@ -208,7 +208,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 179h 48m
+        C++ - 179h 50m
       </text>
     </g>
   
